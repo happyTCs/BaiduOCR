@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\karl\\Downloads\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\karl\\.android\\build-cache\\70a56fa94c829db791858bece1460e538a1a6bcb\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\karl\\Downloads\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\karl\\.android\\build-cache\\70a56fa94c829db791858bece1460e538a1a6bcb\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\karl\\Downloads\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\karl\\.android\\build-cache\\70a56fa94c829db791858bece1460e538a1a6bcb\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\karl\\Downloads\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\karl\\.android\\build-cache\\70a56fa94c829db791858bece1460e538a1a6bcb\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
